@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{250:function(n,a,e){"use strict";e.r(a);var o=e(203),r=e.n(o),s=e(251),w=e.n(s),p=e(204),t=e.n(p),u=e(252),c=e.n(u),i=window.bugsnagClient.use(c()(r.a));a.default={ErrorBoundary:i,React:r.a,ReactDOM:w.a,PropTypes:t.a}}}]);
