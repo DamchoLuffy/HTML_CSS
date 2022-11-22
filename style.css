@@ -58,6 +58,7 @@
 }
 
 #wrapper{
+    background-image: url("assects/2020.jpg");
     background-size:contain;
     color: black;
     height: 90vh;
