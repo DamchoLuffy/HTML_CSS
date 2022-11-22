@@ -76,7 +76,8 @@
 #wrapper img{
     width: 45vw;
     height: 45vh;
-    padding: 5px 10px;
+    margin: 5px 240px;
+    padding: 5px 90px;
 }
 
 #foot{
